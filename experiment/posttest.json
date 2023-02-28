@@ -2,32 +2,83 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1.As the load is increased the speed of DC shunt motor will ___________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increase slightly",
+        "b": "Increase proportionately",
+        "c": "Reduce slightly",
+        "d": "Reduce rapidly"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "To maintain the voltage at a constant value.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.A three phase slip ring induction motor is fed from the rotor side with the stator winding short-circuited stator is ......",
+      "answers": {
+        "a": "slip frequency",
+        "b": "supply frequency",
+        "c": "The frequency corresponding to rotor speed",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "The relative speed between rotor magnetic field and stator conductors is slip speed and hence the frequency of induced e.m.f is equal to slip frequency.  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+      },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3.The frame of an inductionmotor is made of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "aluminium",
+        "b": "silicon steel",
+        "c": "cast iron",
+        "d": "stainless steel"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "The frame of an induction machine made of cast iron. The power factor of an induction motor depends upon the air gap between stator and rotor.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "4.Speed torque characteristic of DC shunt motor is _______________",
+      "answers": {
+        "a": "Starting from origin",
+        "b": "Starting from speed axis and increasing",
+        "c": "Starting from speed axis and decreasing",
+        "d": "Starting from speed axis and constant"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Speed-torque characteristic falls as torque increases, because armature reaction causes decrease in flux whose square is in inverse proportion with speed, causing decrease in speed rapidly compare to increase in torque.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "5.Synchronous motors are_______",
+      "answers": {
+        "a": "not self starting",
+        "b": " self starting",
+        "c": "single excited",
+        "d": "none of the mentioned"
+      },
+      "explanations": {
+        "a": "The average torque developed in the synchronous motor is zero.  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
