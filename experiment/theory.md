@@ -1,3 +1,6 @@
+### THEORY: 
+
+### **Construction of a DC Machine:**
 A DC machine consists of two basic parts; stator and rotor. Basic constructional parts of a DC machine are described below. 
 ##### **1. Yoke:**
 The outer frame of a dc machine is called as yoke. It is made up of cast iron or steel. It not only provides mechanical strength to the whole assembly but also carries the magnetic flux produced by the field winding.
