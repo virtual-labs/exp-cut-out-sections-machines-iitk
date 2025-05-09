@@ -4,10 +4,18 @@
 A DC machine consists of two basic parts; stator and rotor. Basic constructional parts of a DC machine are described below. 
 ##### **1. Yoke:**
 The outer frame of a dc machine is called as yoke. It is made up of cast iron or steel. It not only provides mechanical strength to the whole assembly but also carries the magnetic flux produced by the field winding.
+
+<img src="/Users/harshverma/Downloads/exp-cut-out-sections-machines-iitk-dev/ yoke2.png" width="350" heidth="350">
+
+
 ##### **2. Poles and pole shoes:**
 Poles are joined to the yoke with the help of bolts or welding. They carry field winding and pole shoes are fastened to them. Pole shoes serve two purposes; 
  (i) they support field coils and
  (ii) spread out the flux in air gap uniformly. 
+
+
+<img src="/Users/harshverma/Downloads/exp-cut-out-sections-machines-iitk-dev/experiment/simulation/dc3.png" width="350" heigth="350">
+
 ##### **3. Field winding:**
 They are usually made of copper, Field coils are former wound and placed on each pole and are connected in series. They are wound in such a way that, when energized, they form alternate North and South poles. 
 ##### **4. Armature core:**
@@ -69,7 +77,7 @@ The external resistors enable the variation of each rotor phase resistance to se
 
 To increase the starting torque and reduce the starting current from the supply.
 To control the speed of the motor.
-<img src="images/Screenshot_20230214_122145.png" width= "350" height="350">
+<img src="/Users/harshverma/Downloads/exp-cut-out-sections-machines-iitk-dev/experiment/simulation/dc.png" width= "350" height="350">
 
 
 ### **Construction of Single-Phase Induction Motor**
@@ -111,7 +119,7 @@ Salient pole type rotor is used in low and medium speed alternators. Constructio
 ##### **2. Cylindrical type:** 
 Cylindrical type rotors are used in high speed alternators, especially in turbo alternators. This type of rotor consists  of a smooth and solid steel cylinder having slots along its outer periphery. Field windings are placed in these slots. The DC supply is given to the rotor winding through the slip rings and brushes arrangement.
 
-<img src="images/Screenshot_20230214_122342.png" width="350" heigth="350">
+<img src="/Users/harshverma/Downloads/exp-cut-out-sections-machines-iitk-dev/experiment/simulation/dc2.png" width="350" heigth="350">
 
 
 
