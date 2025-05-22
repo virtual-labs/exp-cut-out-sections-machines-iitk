@@ -10,10 +10,10 @@
         "d": "Reduce rapidly"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Not true. Increased load doesnt cause speed to increase.",
+        "b": "DC shunt motors don’t behave like that; the speed control is relatively flat.",
         "c": "To maintain the voltage at a constant value.",
-        "d": "Explanation 2"
+        "d": "That's more typical for a series motor, not a shunt motor."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -28,9 +28,9 @@
       },
       "explanations": {
         "a": "The relative speed between rotor magnetic field and stator conductors is slip speed and hence the frequency of induced e.m.f is equal to slip frequency.  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "No. The supply is fed to rotor, not stator.",
+        "c": "Vague and not technically correct.",
+        "d": "Only true if there is no relative motion (i.e., at synchronous speed), which is not the case here."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -44,10 +44,10 @@
         "d": "stainless steel"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "Used for small motors or fan-cooled enclosures, but not typically for the frame.",
+        "b": "Used in the core (stator & rotor laminations), not in the frame.",
         "c": "The frame of an induction machine made of cast iron. The power factor of an induction motor depends upon the air gap between stator and rotor.",
-        "d": "Explanation 2"
+        "d": "Expensive and not necessary; rarely used for motor frames."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -61,10 +61,10 @@
         "d": "Starting from speed axis and constant"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
+        "a": "That applies to a series motor, where both torque and speed start from zero.",
+        "b": "Torque does increase, but speed doesn't increase significantly.",
         "c": "Speed-torque characteristic falls as torque increases, because armature reaction causes decrease in flux whose square is in inverse proportion with speed, causing decrease in speed rapidly compare to increase in torque.",
-        "d": "Explanation 2"
+        "d": " While the speed is nearly constant, it's not perfectly constant — it decreases slightly as load increases. So, the line is not flat."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -79,11 +79,11 @@
       },
       "explanations": {
         "a": "The average torque developed in the synchronous motor is zero.  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Not true unless with special starting mechanisms",
+        "c": "Synchronous motors are usually doubly excited (field and stator).",
+        "d": "Incorrect since option (a) is correct."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
