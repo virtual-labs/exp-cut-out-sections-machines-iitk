@@ -75,9 +75,9 @@ The open ends of the star circuit are taken outside the rotor and connected to t
 
 The external resistors enable the variation of each rotor phase resistance to serve following two purposes −
 
-To increase the starting torque and reduce the starting current from the supply.
-To control the speed of the motor.
-<img src="simulation/dc.png" width= "350" height="350">
+To increase the starting torque and reduce the starting current from the supply.<br>
+To control the speed of the motor.<br>
+<img src="simulation/dc.png" width= "350" height="350"><br>
 
 
 ### **Construction of Single-Phase Induction Motor**
