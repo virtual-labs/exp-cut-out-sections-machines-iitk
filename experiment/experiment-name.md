@@ -1,1 +1,1 @@
-## DEMONSTRATION OF CUT SECTION OF DC MACHINE, INDUCTION MACHINE AND SYNCHRONOUS MACHINE
+## Demonstration of Cut Section of DC Machine, Induction Machine, and Synchronous Machine

@@ -1,6 +1,5 @@
-### THEORY: 
+<b>Construction of a DC Machine : </b> <br>
 
-### **Construction of a DC Machine:**
 A DC machine consists of two basic parts; stator and rotor. Basic constructional parts of a DC machine are described below. 
 ##### **1. Yoke:**
 The outer frame of a dc machine is called as yoke. It is made up of cast iron or steel. It not only provides mechanical strength to the whole assembly but also carries the magnetic flux produced by the field winding.
@@ -29,7 +28,7 @@ The function of a commutator, in a dc generator is to collect the current genera
 <img src= "images/Screenshot_20230214_121413.png" width="350" heigth="350">
 
 
-### **Construction of a three phase Induction Machine** 
+<b>Construction of a three phase Induction Machine : </b> <br>
 
 A 3-phase induction motor has two main parts −
 
@@ -80,7 +79,7 @@ To control the speed of the motor.<br>
 <img src="simulation/dc.png" width= "350" height="350"><br>
 
 
-### **Construction of Single-Phase Induction Motor**
+<b>Construction of Single-Phase Induction Motor : </b> <br>
 A single phase induction motor is similar to the three phase squirrel cage induction motor except there is single phase two windings (instead of one three phase winding in 3-phase motors) mounted on the stator and the cage winding rotor is placed inside the stator which freely rotates with the help of mounted bearings on the motor shaft.
 
 The construction of a single-phase induction motor is similar to the construction of a three-phase induction motor.
@@ -104,7 +103,7 @@ The rotor slots are skewed at some angle to avoid magnetic coupling. And it also
 
 
 
-### **Construction of a Synchronous Machine**
+<b>Construction of a Synchronous Machine : </b><br>
  Main parts of the alternator consist of stator and rotor. But, the unlike other machines, in most of the alternators, field exciters are rotating and the armature coil is stationary.
  ##### **1. Stator:** 
  Unlike in DC machine stator of an alternator is not meant to serve path for magnetic flux. Instead, the stator is used for holding armature winding. The stator core is made up of lamination of steel alloys or magnetic iron, to minimize the eddy current losses.
