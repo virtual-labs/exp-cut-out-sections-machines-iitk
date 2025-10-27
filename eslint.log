@@ -1,0 +1,9 @@
+
+/home/runner/work/exp-cut-out-sections-machines-iitk/exp-cut-out-sections-machines-iitk/experiment/simulation/js/main.js
+   2:5  warning  'count' is assigned a value but never used    no-unused-vars
+   4:6  warning  'content' is assigned a value but never used  no-unused-vars
+  10:6  warning  'valu' is not defined                         no-undef
+  12:8  warning  'valu' is not defined                         no-undef
+
+✖ 4 problems (0 errors, 4 warnings)
+

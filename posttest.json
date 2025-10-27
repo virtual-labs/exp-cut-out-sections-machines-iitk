@@ -1,0 +1,90 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1.As the load is increased the speed of DC shunt motor will ___________",
+      "answers": {
+        "a": "Increase slightly",
+        "b": "Increase proportionately",
+        "c": "Reduce slightly",
+        "d": "Reduce rapidly"
+      },
+      "explanations": {
+        "a": "Not true. Increased load doesnt cause speed to increase.",
+        "b": "DC shunt motors don’t behave like that; the speed control is relatively flat.",
+        "c": "To maintain the voltage at a constant value.",
+        "d": "That's more typical for a series motor, not a shunt motor."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2.A three phase slip ring induction motor is fed from the rotor side with the stator winding short-circuited stator is ......",
+      "answers": {
+        "a": "slip frequency",
+        "b": "supply frequency",
+        "c": "The frequency corresponding to rotor speed",
+        "d": "Zero"
+      },
+      "explanations": {
+        "a": "The relative speed between rotor magnetic field and stator conductors is slip speed and hence the frequency of induced e.m.f is equal to slip frequency.  <a href='www.google.com'>here</a>",
+        "b": "No. The supply is fed to rotor, not stator.",
+        "c": "Vague and not technically correct.",
+        "d": "Only true if there is no relative motion (i.e., at synchronous speed), which is not the case here."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "3.The frame of an inductionmotor is made of",
+      "answers": {
+        "a": "aluminium",
+        "b": "silicon steel",
+        "c": "cast iron",
+        "d": "stainless steel"
+      },
+      "explanations": {
+        "a": "Used for small motors or fan-cooled enclosures, but not typically for the frame.",
+        "b": "Used in the core (stator & rotor laminations), not in the frame.",
+        "c": "The frame of an induction machine made of cast iron. The power factor of an induction motor depends upon the air gap between stator and rotor.",
+        "d": "Expensive and not necessary; rarely used for motor frames."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "4.Speed torque characteristic of DC shunt motor is _______________",
+      "answers": {
+        "a": "Starting from origin",
+        "b": "Starting from speed axis and increasing",
+        "c": "Starting from speed axis and decreasing",
+        "d": "Starting from speed axis and constant"
+      },
+      "explanations": {
+        "a": "That applies to a series motor, where both torque and speed start from zero.",
+        "b": "Torque does increase, but speed doesn't increase significantly.",
+        "c": "Speed-torque characteristic falls as torque increases, because armature reaction causes decrease in flux whose square is in inverse proportion with speed, causing decrease in speed rapidly compare to increase in torque.",
+        "d": " While the speed is nearly constant, it's not perfectly constant — it decreases slightly as load increases. So, the line is not flat."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "5.Synchronous motors are_______",
+      "answers": {
+        "a": "not self starting",
+        "b": " self starting",
+        "c": "single excited",
+        "d": "none of the mentioned"
+      },
+      "explanations": {
+        "a": "The average torque developed in the synchronous motor is zero.  <a href='www.google.com'>here</a>",
+        "b": "Not true unless with special starting mechanisms",
+        "c": "Synchronous motors are usually doubly excited (field and stator).",
+        "d": "Incorrect since option (a) is correct."
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
